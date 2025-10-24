@@ -1,1 +1,1 @@
-[📄 Otwórz PDF](./docs/paper.pdf)
+[📄 Otwórz PDF](./raport.pdf)
