@@ -1,1 +1,1 @@
-[📄 Otwórz PDF](./Raport.pdf)
+[📄 Otwórz raport](./Raport.pdf)
